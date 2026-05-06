@@ -1,10 +1,11 @@
 {
-  "name": "@cosmos/mf-auth-client",
+  "name": "@cosmos/service-discovery",
   "version": "0.0.1",
   "private": true,
   "type": "module",
   "dependencies": {
-    "@cosmos/discovery-client": "workspace:*"
+    "@cosmos/discovery-contracts": "workspace:*",
+    "zod": "^3.24.2"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",

@@ -1,14 +1,17 @@
 {
-  "name": "@cosmos/mf-auth-client",
+  "name": "@cosmos/vitest-config",
   "version": "0.0.1",
   "private": true,
   "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
   "dependencies": {
-    "@cosmos/discovery-client": "workspace:*"
+    "vitest": "^2.1.8"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",
-    "tsx": "^4.19.3",
+    "jsdom": "^25.0.1",
     "typescript": "^5.7.3"
   }
 }

@@ -1,14 +1,13 @@
 {
-  "name": "@cosmos/mf-auth-client",
+  "name": "@cosmos/mfe-infrastructure",
   "version": "0.0.1",
   "private": true,
   "type": "module",
-  "dependencies": {
-    "@cosmos/discovery-client": "workspace:*"
+  "exports": {
+    ".": "./src/index.ts"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",
-    "tsx": "^4.19.3",
     "typescript": "^5.7.3"
   }
 }
