@@ -1,6 +1,6 @@
 # Cosmos Framework
 
-Cosmos Framework is an open-source, production-oriented **SSR micro-frontend platform prototype** built for organizations that need multiple independent frontend teams to deliver in one shared product surface.
+Cosmos Framework is an open-source, production-oriented **horizontal SSR micro-frontend platform prototype** built for organizations that need multiple independent frontend teams to deliver in one shared product surface.
 
 The repository demonstrates a practical composition model where micro-frontends self-register, expose SSR fragments, and are assembled by a shell application at request time.
 
