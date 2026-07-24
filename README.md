@@ -4,7 +4,7 @@ Cosmos Framework is an open-source, production-oriented **horizontal SSR micro-f
 
 The repository demonstrates a practical composition model where micro-frontends self-register, expose SSR fragments, and are assembled by a shell application at request time.
 
-<img width="1254" height="884" alt="welcome" src="https://github.com/user-attachments/assets/7aae03ef-ec42-4d29-a6f9-b064b8524a0a" />
+<img width="1154" height="800" alt="welcome" src="https://github.com/user-attachments/assets/7aae03ef-ec42-4d29-a6f9-b064b8524a0a" />
 
 ## Why this project exists
 
